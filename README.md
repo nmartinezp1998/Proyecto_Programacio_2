@@ -20,6 +20,42 @@ Hola como estamos?
 ##### Como instalar el proyecto.
 probandooo
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### Funcionalidades del proyecto.
 
 ##### Herramientas utilizadas.
