@@ -19,37 +19,24 @@ Hola como estamos?
 
 ##### Como instalar el proyecto.
 probandooo
+f
+f
+f
+f
+f
+f
+f
+f
+f
+f
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+f
+f
+f
+f
+f
+f
+f
 
 
 
